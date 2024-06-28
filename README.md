@@ -1,7 +1,15 @@
 # News-Feed-App
 NewsFeed is a dynamic and responsive web application that provides users with the latest news and updates from various sources. This application offers an intuitive and seamless browsing experience.
 
-### Instructions for Setting Up Local Development Environment
+# screenshot
+## screen without search or filter
+![screencapture-localhost-5174-News-Feed-App-2024-06-28-18_19_14](https://github.com/BasemYahia402/News-Feed-App/assets/123165852/027f60c4-1084-4b7d-8472-a5203d51b7ae)
+## screen with search
+![image](https://github.com/BasemYahia402/News-Feed-App/assets/123165852/b624f831-56e3-4058-abcb-c1be9b0714a9)
+
+
+
+# Instructions for Setting Up Local Development Environment
 
 1. **Clone the Repository:**
    ```bash
